@@ -11,3 +11,4 @@ WR5 morning review of HTML-CSS-1
 ## CSS 
 
 1. Cascading Style Sheets -- it's the skin
+2. 3 Types of CSS Styles: Inline, External and Internal
