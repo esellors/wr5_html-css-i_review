@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: green;
+}
+h2{
+  margin: 0px 550px;
+  font-size: 50px;
+  font-weight: bold;
+}
+h4{
+  margin: 0px 540px;
+  font-size: 20px;
+  color: #53789F;       /* You can also use the hexdecimal codes for different colors */
+}
+.image{
+  float: right;         /* float is decide that places an element in container*/
+  border-radius: 50px;  /* Border radius is used for make the corners of the border in circular style*/
+}
+p {
+    color: orange;
+}
+p{
+    color: black;
+}
+.text{
+    padding: 0px 0px 0px 200px;
+    font-size: 40px;
+}
+.code{
+    font-size: 50px;
+    padding: 10px;
+}
+#first-p-tag {
+    /* code goes here */
+    height: 60vh;
+    background: yellow;
+}
+
+.im-the-favorite {
+    /* code goes here */
+}
+main section p {
+    /* code goes here */
+}
+.footer{
+  background-color: #3B5570;
+  height: 10vh;
+}
+.foot{
+  font-size: 30px;
+  margin: 0px 650px;
+  color: white;
+}
+.copy{
+  margin: 0px 590px;
+  color: black;
+}
